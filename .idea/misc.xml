@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/helloweb/pom.xml" />
+        <option value="$PROJECT_DIR$/guestbook/pom.xml" />
+        <option value="$PROJECT_DIR$/emaillist01/pom.xml" />
+        <option value="$PROJECT_DIR$/guestbook01/pom.xml" />
+        <option value="$PROJECT_DIR$/emaillist02/pom.xml" />
+        <option value="$PROJECT_DIR$/guestbook02/pom.xml" />
+        <option value="$PROJECT_DIR$/jstl/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="zulu-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
